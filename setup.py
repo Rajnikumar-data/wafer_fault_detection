@@ -6,5 +6,5 @@ setup(
     description="ML project",
     author="Avnish yadav", 
     packages=find_packages(),
-    license="MIT"
+    license="MIT")
 
